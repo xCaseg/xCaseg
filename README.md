@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Code documentation**
 
-- 👨‍💻 All of my projects are available at [Pending](Pending)
+- 👨‍💻 All of my projects are available at **github.com/xCaseg**
 
 - 📝 I regularly write articles on [Pending](Pending)
 
