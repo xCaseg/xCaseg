@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcaseg&label=Profile%20views&color=0e75b6&style=flat" alt="xcaseg" /> </p>
 
-- 🔭 I’m currently working on **Pending**
+- 🔭 I’m currently working on **A suite of randomness-based applications in Swift, for IOs.**
 
-- 🌱 I’m currently learning **Java, Networking fundamentals**
+- 🌱 I’m currently learning **IAC and Security**
 
-- 👯 I’m looking to collaborate on **IBM**
+- 👯 I’m looking to collaborate on **Honeywell, PWC, FIDEM**
 
-- 🤝 I’m looking for help with **Pending**
+- 🤝 I’m looking for help with **Code documentation**
 
 - 👨‍💻 All of my projects are available at [Pending](Pending)
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Pending](Pending)
 
-- ⚡ Fun fact **I’m interested in cybersecurity, DB management, Mainframe and COBOL**
+- ⚡ Fun fact **I’m interested in cybersecurity, DB management, Cloud computing, DEVOPS, Software Solutions Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
