@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **IAC and Security**
 
-- 👯 I’m looking to collaborate on **Honeywell, PWC, FIDEM**
+- 👯 I’m looking to collaborate on **Honeywell, PWC, Amazon, Google**
 
 - 🤝 I’m looking for help with **Code documentation**
 
